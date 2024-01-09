@@ -1,0 +1,1 @@
+This was the firmware provided from Austin/ARC with the update of being able to recieve arrays and output as signals.

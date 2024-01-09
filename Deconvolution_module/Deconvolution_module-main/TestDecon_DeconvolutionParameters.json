@@ -1,0 +1,27 @@
+{
+    "Data Parameters": {
+        "Camera pixel size [nm]": 95.7,
+        "Camera offset": 200,
+        "Scan step size [nm]": 105,
+        "Tilt angle [deg]": 35,
+        "Scan axis": 0,
+        "Tilt axis": 2,
+        "Data stacking": "PLSR Interleaved",
+        "Planes in cycle": 20,
+        "Cycles": 20,
+        "Pos/Neg scan direction": "Pos",
+        "Correct first cycle": true,
+        "Correct pixel offsets": true
+    },
+    "Image formation model parameters": {
+        "Optical PSF path": "PSFs\\75nm\\PSF_RW_1.26_75nmPx_101x101x101.tif",
+        "Confined sheet FWHM [nm]": 200,
+        "Read-out sheet FWHM [nm]": 1200,
+        "Background sheet ratio": 0.1
+    },
+    "Algorithmic parameters": {
+        "Reconstruction voxel size [nm]": 75,
+        "Clip factor for kernel cropping": 0.01,
+        "Iterations": 2
+    }
+}
